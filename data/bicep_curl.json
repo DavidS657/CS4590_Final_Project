@@ -1,0 +1,99 @@
+[
+  {
+    "type": "muscleAlert",
+    "timestamp": 1000,
+    "intensity": 100,
+    "muscleType": 3
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 1750,
+    "intensity": 100,
+    "muscleType": 2
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 2750,	
+    "intensity": 100,
+    "muscleType": 2
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 4000,
+    "intensity": 1.01,
+    "muscleType": 1
+
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 4400,
+    "intensity": 1.02,
+    "muscleType": 1
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 4500,
+    "intensity": 100,
+    "muscleType": 3
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 5500,
+    "intensity": 100,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 7000,
+    "intensity": 1.001,
+    "muscleType": 1
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 7300,
+    "intensity": 1.00,
+    "muscleType": 1
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 8300,
+    "intensity": 100,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 9300,
+    "intensity": 0.985,
+    "muscleType": 1
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 9700,
+    "intensity": 0.97,
+    "muscleType": 1
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 11000,
+    "intensity": 100,
+    "muscleType": 2
+  },
+  {
+    "type": "workoutPace",
+    "timestamp":  12500,
+    "intensity": 0.985,
+    "muscleType": 1
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 13900,
+    "intensity": 0.98,
+    "muscleType": 1
+  },
+  {
+    "type": "markSet",
+    "timestamp": 15000,
+    "intensity": 100,
+    "muscleType": 1
+  }
+]

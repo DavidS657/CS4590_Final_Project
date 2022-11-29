@@ -1,0 +1,219 @@
+[
+  {
+    "type": "muscleAlert",
+    "timestamp": 1000,
+    "intensity": 100,
+    "muscleType": 0
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 2000,
+    "intensity": -0.2,
+    "muscleType": 2
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 2400,	
+    "intensity": -0.4,
+    "muscleType": 2
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 3000,
+    "intensity": 1.01,
+    "muscleType": 2
+
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 4400,
+    "intensity": 25,
+    "muscleType": 1
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 4800,
+    "intensity": 50,
+    "muscleType": 3
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 5500,
+    "intensity": 1.015,
+    "muscleType": 2
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 7000,
+    "intensity": 1.03,
+    "muscleType": 1
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 7400,
+    "intensity": -0.5,
+    "muscleType": 1
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 7700,
+    "intensity": 0.98,
+    "muscleType": 2
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 7800,
+    "intensity": 15,
+    "muscleType": 1
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 8300,
+    "intensity": 0,
+    "muscleType": 5
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 9300,
+    "intensity": -0.25,
+    "muscleType": 4
+  },
+  {
+    "type": "handPlacement",
+    "timestamp":  9800,
+    "intensity": 0,
+    "muscleType": 1
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 11500,
+    "intensity": 0.6,
+    "muscleType": 0
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 11700,
+    "intensity": 1.01,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 12200,
+    "intensity": 1.00,
+    "muscleType": 5
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 14200,
+    "intensity": -10.0,
+    "muscleType": 2
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 15000,
+    "intensity": -30.0,
+    "muscleType": 2
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 16000,
+    "intensity": -50.0,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 16900,
+    "intensity": 0.98,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 17400,
+    "intensity": 0.96,
+    "muscleType": 5
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 17600,
+    "intensity": 1.00,
+    "muscleType": 3
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 19000,
+    "intensity": -30.0,
+    "muscleType": 2
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 19400,
+    "intensity": -10.0,
+    "muscleType": 5
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 19900,
+    "intensity": 0.0,
+    "muscleType": 5
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 20500,
+    "intensity": 0.3,
+    "muscleType": 5
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 20900,
+    "intensity": 0.6,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 21400,
+    "intensity": 0.98,
+    "muscleType": 5
+  },
+  {
+    "type": "workoutPace",
+    "timestamp": 21600,
+    "intensity": 1.0,
+    "muscleType": 5
+  },
+  {
+    "type": "muscleAlert",
+    "timestamp": 22000,
+    "intensity": 0.0,
+    "muscleType": 2
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 23000,
+    "intensity": 0.3,
+    "muscleType": 5
+  },
+  {
+    "type": "handPlacement",
+    "timestamp": 23400,
+    "intensity": 0.0,
+    "muscleType": 5
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 23450,
+    "intensity": 20.0,
+    "muscleType": 5
+  },
+  {
+    "type": "barPosition",
+    "timestamp": 23800,
+    "intensity": 50.0,
+    "muscleType": 5
+  },
+  {
+    "type": "markSet",
+    "timestamp": 26000,
+    "intensity": 100,
+    "muscleType": 1
+  }
+]
